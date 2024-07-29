@@ -1,4 +1,4 @@
-# Coffee-Shop-Chain-Database
+# Coffee Shop Chain Database
 ## 1. Scenario
 In this scenario, a New York-based coffee shop chain is looking to expand nationally by opening several franchise locations. They want to streamline operations and revamp their data infrastructure as part of their expansion process.\
 Our job is to design their relational database systems for improved operational efficiencies and make it easier for their executives to make data-driven decisions.\
